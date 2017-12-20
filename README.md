@@ -4,6 +4,7 @@ To play, just download all the sourcecode, and because of my included makefile, 
 Just open the terminal, and enter the folder containing all the sourcecode. Then run make.
 It will then compile, and you can play the game by running the executable called "game".
 >>> make
+
 >>> ./game
 
 Enjoy!
